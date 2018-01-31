@@ -1,0 +1,3 @@
+include 'proj_gradle'
+include 'proj_mvn'
+include 'test_proj'
